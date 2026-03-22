@@ -108,3 +108,63 @@ text = "   python programming is fun   "
 # Position of 'programming': 7
 # Replaced: python programming is awesome
 # Count of 'o': 2
+
+
+
+# Exercise 4 (Operators):
+# Write a Python program that performs the following tasks step-by-step:
+
+# Part 1: Basic User Input & Strings
+# Ask the user for their full name.
+# Remove extra spaces (using .strip()).
+# Convert their name to title case.
+
+# Print:
+
+# Hello, <Name>!
+# Part 2: Arithmetic & Type Conversion
+# Ask the user for three subject scores (e.g., Math, Science, English).
+# Convert them to integers.
+# Calculate the total score using arithmetic operators.
+# Calculate the average score.
+
+# Part 3: Augmented Assignment
+# Give the student 5 bonus points using +=
+# Deduct 2 marks for lateness using -=
+
+# Part 4: Comparison Operators
+# Check if the student passed:
+# Pass mark is 50
+# Print True or False
+# Check if average ≥ 80 (Distinction)
+
+# Part 5: Logical Operators
+# Print whether the student qualifies for an award:
+# Must have average ≥ 85
+# AND name contains at least one space (meaning full name was entered)
+
+# Part 6: Summary Output
+# Display a summary:
+# Student: <Name>
+# Total Score: <number>
+# Average Score: <number>
+# Passed: True/False
+# Distinction: True/False
+# Award Qualified: True/False
+
+# Expected Output Example
+# Enter full name:    john doe
+# Hello, John Doe!
+
+# Enter Math score: 78
+# Enter Science score: 90
+# Enter English score: 84
+
+# Total Score (before bonus): 252
+# Total Score (after bonus & deduction): 255
+# Average Score: 85.0
+
+# Passed: True
+# Distinction: True
+# Award Qualification: True
+
